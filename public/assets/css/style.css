@@ -1,0 +1,8 @@
+.active-nav {
+    color: #27348B !important;
+    border-bottom: 3px solid;
+}
+
+textarea {
+    resize: none;
+}
